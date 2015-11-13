@@ -1,0 +1,17 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  /*  font-family: 'helvetica neue', arial, sans-serif;  */
+  font-weight: 300;
+  background: url(linedpaper.png) repeat;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
+bulls{
+	width: 350px;
+}
+/*commenting code*/
+.red{
+	color: red;
+}
